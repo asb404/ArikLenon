@@ -7,6 +7,6 @@ import java.util.List;
 @Service
 public interface StudentService {
     Student findStudentById(Integer id);
-
+    String UpdateStu(int id, String name, String emailId);
     List<Student> findAllStudent();
 }
