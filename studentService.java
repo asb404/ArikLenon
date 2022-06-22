@@ -1,6 +1,6 @@
-package com.antara.spring.au.Service;
+package com.antara.spring.Service;
 
-import com.antara.spring.au.Entity.Student;
+import com.antara.spring.Entity.Student;
 import org.springframework.stereotype.Service;
 
 import java.util.List;
